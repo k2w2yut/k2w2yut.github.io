@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "In to the jungle"
-slug: in-to-the-jungle
+title:  "Into the jungle"
+slug: into-the-jungle
 date:   2018-02-11 00:03:20 +1200
 categories: jekyll update
 ---
