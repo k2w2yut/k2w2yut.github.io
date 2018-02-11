@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Finally! got Welcome to Jekyll!"
+slug: finally-got-welcome-to-jekyll
 date:   2018-02-12 00:03:20 +0900
 categories: jekyll update
 ---
