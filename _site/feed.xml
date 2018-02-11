@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-12T01:40:29+09:00</updated><id>http://localhost:4000/</id><title type="html">No one is too old to learn</title><subtitle>Long jouney awaits ahead. keep pesistent, keep stupid and be honest</subtitle><entry><title type="html">Finally! got Welcome to Jekyll!</title><link href="http://localhost:4000/posts/finally-got-welcome-to-jekyll" rel="alternate" type="text/html" title="Finally! got Welcome to Jekyll!" /><published>2018-02-12T00:03:20+09:00</published><updated>2018-02-12T00:03:20+09:00</updated><id>http://localhost:4000/posts/finally-got-welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/posts/finally-got-welcome-to-jekyll">&lt;ol&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-12T01:43:43+09:00</updated><id>http://localhost:4000/</id><title type="html">No one is too old to learn</title><subtitle>Long jouney awaits ahead. keep pesistent, keep stupid and be honest</subtitle><entry><title type="html">Finally! got Welcome to Jekyll!</title><link href="http://localhost:4000/posts/finally-got-welcome-to-jekyll" rel="alternate" type="text/html" title="Finally! got Welcome to Jekyll!" /><published>2018-02-12T00:03:20+09:00</published><updated>2018-02-12T00:03:20+09:00</updated><id>http://localhost:4000/posts/finally-got-welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/posts/finally-got-welcome-to-jekyll">&lt;ol&gt;
   &lt;li&gt;Come back to native Ruby 2.4 installation
  found that the “make” should already included in Ruby Devkit…
     &lt;ul&gt;
@@ -112,7 +112,7 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Come back to native Ruby 2.4 installation
- found that the “make” should already included in Ruby Devkit…
+ found that the “make” should have been already included in Ruby Devkit…
     &lt;ul&gt;
       &lt;li&gt;went back to run [ridk install] for MSYS2-DEVKIT&lt;/li&gt;
       &lt;li&gt;succeed install commonmarker&lt;/li&gt;

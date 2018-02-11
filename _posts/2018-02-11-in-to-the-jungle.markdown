@@ -57,6 +57,6 @@ categories: jekyll update
 8. Official GitHub guide to create page
    - https://pages.github.com/
 9. Come back to native Ruby 2.4 installation
-    found that the "make" should already included in Ruby Devkit...
+    found that the "make" should have been already included in Ruby Devkit...
     - went back to run [ridk install] for MSYS2-DEVKIT
     - succeed install commonmarker
