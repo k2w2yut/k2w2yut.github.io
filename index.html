@@ -38,12 +38,21 @@
   - cause no 'make' program
   - got make from sourceforge https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058
   - still fail due to some path problem
-  - reject this installation
+  - Reject this installation
 6. Install Windows Subsystem for Linux
   - Got Ubuntu 14.04 from Windows store https://docs.microsoft.com/en-us/windows/wsl/install-win10
   - Follows https://jekyllrb.com/docs/windows/#installation
   - good so far until 'bundle install', some lib was not found, apt-get, solved
-
-
+  - Too slow to make a productive,
+  - Reject this approach
+7. Try jekyll docker
+  - Docker Linux container failed
+    - Work around not so good, best be is clear as much startup process
+    - switch Windows/Linux container doesn't work, restart Windows
+    - some clue about 60s init timeout https://github.com/docker/for-win/issues/447#issuecomment-277730926
+  - Docker work, but cobblesome with jekyll process
+8. Offical github guide to create page
+   - https://pages.github.com/
+   - 
 </body>
 </html>
