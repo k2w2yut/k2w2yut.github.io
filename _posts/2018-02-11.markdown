@@ -1,8 +1,9 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+---
+layout: post
+title:  "In to the jungle"
+date:   2018-02-11 00:03:20 +1200
+categories: jekyll update
+---
 1. learn Jenkins
     java -jar jenkins.war
     init jenkins, user.password
@@ -12,7 +13,7 @@
     mv jenkinsFile /jenkinsFile
 2. Things went bad
     Docker failed to start
-    - someting related to virtual hdd
+    - something related to virtual hdd
       - mainly Hyper-V feature
       - [from Google, SO]
         - cause Windows permission issue
@@ -50,13 +51,11 @@
     - Work around not so good, best be is clear as much startup process
     - switch Windows/Linux container doesn't work, restart Windows
     - some clue about 60s init timeout https://github.com/docker/for-win/issues/447#issuecomment-277730926
-  - Docker work, but cobblesome with jekyll process
+  - Docker work, but cobble some with jekyll process
   - stuck at installing...nokogiri...forever
-8. Offical github guide to create page
+8. Official GitHub guide to create page
    - https://pages.github.com/
 9. Come back to native Ruby 2.4 installation
     found that the "make" should already included in Ruby Devkit...
     - went back to run [ridk install] for MSYS2-DEVKIT
-    - succed install commonmarker
-</body>
-</html>
+    - succeed install commonmarker
