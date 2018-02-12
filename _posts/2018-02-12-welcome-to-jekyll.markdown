@@ -13,8 +13,8 @@ categories: jekyll update
     - install jekyll success
     - try to findout how to use
 10. Success to build this blog
-    - {% highlight bash %} jekyll build  {% endhighlight %}
-    - mimic the folder , dealt with Gemfile
+    - jekyll build
+    - mimic the folder, dealt with Gemfile
       - Newer Gem has already activated, required
         'bundler exec' jekyll build
       - bundle clean --force

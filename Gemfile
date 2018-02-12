@@ -5,6 +5,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 group :jekyll_plugins do
   gem "jekyll-feed"
 end
+gem 'rake'
 
 #theme
 gem 'jekyll-theme-cayman'
