@@ -14,7 +14,10 @@ categories: jekyll update
     - try to findout how to use
 10. Success to build this blog
     - {% highlight bash %} jekyll build  {% endhighlight %}
-    - mimic the folder , dealt with Gemfile.lock
+    - mimic the folder , dealt with Gemfile
+      - Newer Gem has already activated, required
+        'bundler exec' jekyll build
+      - bundle clean --force
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

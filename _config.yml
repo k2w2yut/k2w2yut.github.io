@@ -39,7 +39,8 @@ exclude:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-swiss
+theme_color: white
 #theme: minima
 plugins:
   - jekyll-feed
