@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Yuttakon Yuttakonkit, CTO at TradeSquare in Bangkok. I lead teams that design data platforms, web and agentic AI systems on AWS, and I still write code and draw architectures myself.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This blog is my research notebook. Each post takes one architecture we designed, draws it, and says what we paid and what we got back. The posts describe patterns, not customers: no client is named.
