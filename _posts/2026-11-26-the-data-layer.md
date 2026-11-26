@@ -97,4 +97,4 @@ And the three questions from the first post:
 2. **What is the cost of a miss?** For a dashboard, a slower page. For the agent, a cold start in front of a person, or worse, a metric that disagrees with the dashboard.
 3. **Which axis are we trading, and did we say so?** We trade latency after idle for cost, and one definition for an agent that knows the words people use. This post is me saying so.
 
-The next post follows the identity thread further: a chat bot that runs a reimbursement workflow, where every action is the person's own action.
+The next post follows the identity thread further: a chat bot that runs a reimbursement workflow, where the person's identity has to survive every step.
